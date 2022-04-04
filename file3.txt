@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Need more text here
+=======
+this is file3
+>>>>>>> main

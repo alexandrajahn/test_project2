@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Need more text here
+=======
+new change
+>>>>>>> main
